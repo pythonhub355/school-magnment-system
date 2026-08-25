@@ -1,0 +1,8 @@
+{
+  "name": "Remix Premier School System and Science Academy",
+  "description": "Comprehensive School Management & Academic System for Premier School System & Science Academy featuring student & teacher records, editable weekly timetables & printout generation, attendance tracking, fee submissions, expense ledger, test schedules, session progress report cards, and parent communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
